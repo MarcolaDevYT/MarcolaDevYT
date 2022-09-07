@@ -1,4 +1,4 @@
-### Opa, eu me chamo Marcos Vinicius
+### Opa, eu me chamo Marcos Vinicius também conhecido como Baldao
 
 - 🌱 Estou aprofundando estudos em python
 - 😄 Aprendendo javascript e suas tecnologias (HTML e CSS)
