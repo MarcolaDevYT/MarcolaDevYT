@@ -16,7 +16,6 @@
   <img align="center" alt="Baldao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Baldao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Baldao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Baldao-Gif" height="150" width="150" src="https://media.discordapp.net/attachments/954539400103067688/1017058363936342138/CAPA_CARTOON.png?width=453&height=453">
   
 </div>
   
